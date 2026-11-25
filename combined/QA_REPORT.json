@@ -1,0 +1,23 @@
+{
+  "version": "V4 Combined Expert Experience",
+  "assets": 13,
+  "all_files": 20,
+  "files_missing": [],
+  "duplicate_ids": {},
+  "voice_tracks": [
+    [
+      "sunbot_voice_music_66s.mp3",
+      924843
+    ],
+    [
+      "sunbot_voice_only_66s.mp3",
+      1321131
+    ]
+  ],
+  "external_count": 5,
+  "render_3d_browser_test": "unverified; browser sandbox blocks navigation",
+  "js_syntax": "passed node --check on module and classic scripts",
+  "public_internal_records_removed": true,
+  "copyright_note": "Sample room imagery from Sunbot e-profile; any visible identifiable children images excluded from new room assets",
+  "source_note": "Room designs from e-profile p.26 are sample concepts, not completed installation photos."
+}
